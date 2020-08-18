@@ -10,8 +10,8 @@ function App() {
     <div className="App">
       <Navbara />
       <div className="container mx-auto">
-        <Route exact path="/" component={Joke} />
-        <Route path="/about" component={About} />
+      <Route exact path={process.env.PUBLIC_URL + '/'} component={Joke} />
+      <Route path={process.env.PUBLIC_URL + '/about'} component={About} />
       </div>
     </div>
     </Router>
