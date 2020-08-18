@@ -5,11 +5,11 @@ const Navbara = () => {
     return (
         <div>
             <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
-  <Navbar.Brand href="/">DJokes</Navbar.Brand>
+  <Navbar.Brand href={process.env.PUBLIC_URL + '/'}>DJokes</Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="mr-auto">
-      <Nav.Link href="/about">About</Nav.Link>
+      <Nav.Link href={process.env.PUBLIC_URL + '/about'}>About</Nav.Link>
     </Nav>
   </Navbar.Collapse>
 </Navbar>
