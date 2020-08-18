@@ -6,7 +6,7 @@ import {BrowserRouter as Router, Route} from 'react-router-dom';
 
 function App() {
   return (
-    <Router basename='/'>
+    <Router basename="/">
     <div className="App">
       <Navbara />
       <div className="container mx-auto">
