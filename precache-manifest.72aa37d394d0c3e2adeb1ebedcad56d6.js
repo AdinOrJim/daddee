@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "258d3c821fb9a5a6b33ff1f585267de0",
+    "revision": "c263337c88e147334be818d32f9c89d4",
     "url": "/daddee/index.html"
   },
   {
-    "revision": "0417f8d30e8b2b9954cd",
-    "url": "/daddee/static/css/main.8e8e6161.chunk.css"
+    "revision": "30922b069327984350f7",
+    "url": "/daddee/static/css/main.0d72b134.chunk.css"
   },
   {
     "revision": "16f02c72ada8658e952e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daddee/static/js/2.a6083f24.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0417f8d30e8b2b9954cd",
-    "url": "/daddee/static/js/main.f59a0ba3.chunk.js"
+    "revision": "30922b069327984350f7",
+    "url": "/daddee/static/js/main.7aee9fe6.chunk.js"
   },
   {
     "revision": "5257df9ea8f7a1e79b0d",

@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/daddee/static/css/main.8e8e6161.chunk.css",
-    "main.js": "/daddee/static/js/main.f59a0ba3.chunk.js",
-    "main.js.map": "/daddee/static/js/main.f59a0ba3.chunk.js.map",
+    "main.css": "/daddee/static/css/main.0d72b134.chunk.css",
+    "main.js": "/daddee/static/js/main.7aee9fe6.chunk.js",
+    "main.js.map": "/daddee/static/js/main.7aee9fe6.chunk.js.map",
     "runtime-main.js": "/daddee/static/js/runtime-main.e1bbebc7.js",
     "runtime-main.js.map": "/daddee/static/js/runtime-main.e1bbebc7.js.map",
     "static/js/2.a6083f24.chunk.js": "/daddee/static/js/2.a6083f24.chunk.js",
     "static/js/2.a6083f24.chunk.js.map": "/daddee/static/js/2.a6083f24.chunk.js.map",
     "index.html": "/daddee/index.html",
-    "precache-manifest.ba16f569de9bc311af13fcd3f230b972.js": "/daddee/precache-manifest.ba16f569de9bc311af13fcd3f230b972.js",
+    "precache-manifest.72aa37d394d0c3e2adeb1ebedcad56d6.js": "/daddee/precache-manifest.72aa37d394d0c3e2adeb1ebedcad56d6.js",
     "service-worker.js": "/daddee/service-worker.js",
-    "static/css/main.8e8e6161.chunk.css.map": "/daddee/static/css/main.8e8e6161.chunk.css.map",
+    "static/css/main.0d72b134.chunk.css.map": "/daddee/static/css/main.0d72b134.chunk.css.map",
     "static/js/2.a6083f24.chunk.js.LICENSE.txt": "/daddee/static/js/2.a6083f24.chunk.js.LICENSE.txt",
     "static/media/smirk.png": "/daddee/static/media/smirk.ccd93f39.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e1bbebc7.js",
     "static/js/2.a6083f24.chunk.js",
-    "static/css/main.8e8e6161.chunk.css",
-    "static/js/main.f59a0ba3.chunk.js"
+    "static/css/main.0d72b134.chunk.css",
+    "static/js/main.7aee9fe6.chunk.js"
   ]
 }
